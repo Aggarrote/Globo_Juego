@@ -1,0 +1,1063 @@
+fileFormatVersion: 2
+guid: 7749f1b7dd6e2364799a2721c5cd33ee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkTorero 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 179
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7b2a56d76b4e441bed2647b65c5110
+      internalID: -476178362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkTorero 2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 179
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a61be7d97fea14d8bd29d109a4933c
+      internalID: -531863575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkTorero 3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 179
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd68754067333de4a8901e141ad55eef
+      internalID: -801855276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkTorero 4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 180
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e02a3475e44ce47a1f748251c00a91
+      internalID: 1556396901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkTorero 5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 179
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3762ca2e9f9c55b4ba03e61d13a81d47
+      internalID: -1928535576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkTorero 6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 179
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205fbb8240cf8ee4b88599e0260f3967
+      internalID: 1785821771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkTorero 7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 179
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7823b1ee20496248a1397782ca1a3a8
+      internalID: -1119806561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte Torero 1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 180
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69e08774978e184c9f52e8ec31e3f23
+      internalID: -1827233038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte Torero 2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 180
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeb9481838f19044834756f846ff25d
+      internalID: 514834984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte Torero 3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 178
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763bf0b44e3a8144da94fa17968c22ae
+      internalID: 242408079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte Torero 4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 175
+        width: 27
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d4f8aeb24b0994cbff44d317bb8c6f
+      internalID: 91783287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte Torero 5
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 173
+        width: 31
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8408aaa96c850b44f9797b4b02fb4682
+      internalID: 1346451669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltarTorero 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 141
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2358066dd39c2164dab3fa2be38e8b8d
+      internalID: -387961072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltarTorero 2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 141
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081be6f4585c19c41b39c66677aae44c
+      internalID: 1114804679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltarTorero 3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 141
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cae2f4c7f86065448fd93ca21ba9344
+      internalID: 513769866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltarTorero 4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 141
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8ef0141e20044498681c683d6d8a95
+      internalID: 2136276372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltarTorero 5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 142
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a72245f325d7345aa1d5acc48f666e
+      internalID: -433956698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltarTorero 6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 142
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23e1b85b53f06446a9cd288b1e8931a
+      internalID: 1910244289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltarTorero 7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 142
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29e12f1f3354aa4f9595606dfe21d8c
+      internalID: 1705212176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golpe Especial Torero 1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 132
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897fb51b5db970d46a2ac0644b3f14c0
+      internalID: -70112041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golpe Especial Torero 2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 132
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867cad25f2f3013488e3a5fc91754a41
+      internalID: -1678233586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golpe Especial Torero 3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 132
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a4d6e0349d10e44ba3563c31e20746
+      internalID: 719301817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golpe Especial Torero 4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 132
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84d112dd153a8e4693eeaa949ac01e3
+      internalID: 1624784798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golpe Especial Torero 5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 132
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea66d95f21aea0f4384118cd92d94373
+      internalID: -1570001502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle Torero 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 18
+        height: 27
+      alignment: 9
+      pivot: {x: 0.56, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f846b75c180fc154990a0bcad72dad4e
+      internalID: -1947322598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle Torero 2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 101
+        width: 18
+        height: 28
+      alignment: 9
+      pivot: {x: 0.56, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87a52cae15ede740bcc0d3267c05821
+      internalID: -1024501629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle Torero 3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 101
+        width: 18
+        height: 27
+      alignment: 9
+      pivot: {x: 0.56, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d41cb7d112a154cb4a7a0f0cfee5f8
+      internalID: -1904119048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golpe Torero 1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 83
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c849c4a9e6c0e34b87ebe4b3b1a5292
+      internalID: 292722271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golpe Torero 2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 83
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37856355b9d343488aa397e885e3a1b
+      internalID: 1789735809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golpe Torero 3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 83
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de22cf5b5596b141beaf3f572cfb85e
+      internalID: -488762732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golpe Torero 4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 83
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616d6cedbbec62741893215113e19858
+      internalID: -34246959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golpe Torero 5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 83
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f25c63a2ae56da4da8b3b3e1830838b
+      internalID: -995850982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Torero 2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 48
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d92f321b4b772241a2a12360bcfa002
+      internalID: 181171419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Torero 3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 48
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c947f95b1a555e4c86afaae2c061875
+      internalID: -1087655267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Torero 5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 48
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f429c48769e0eed4f9cbe4e305263f6f
+      internalID: -1817912858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Torero 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca72919202ea064d92f8e0adb486533
+      internalID: 699015196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Torero 4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 48
+        width: 18
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee144cfa770d7a4d97835c8c8a9cce2
+      internalID: -1924317637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Torero 6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 48
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee587941d95a54545bffe217d1c2bbb4
+      internalID: -505667857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulti Torero 1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 36
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: 0.69475466, y: 0.0037454457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dabbaa51ef240d4e97a035a65f48c0a
+      internalID: 1678357628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulti Torero 2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 36
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: 0.69, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6a78acfa11d4443988704545ad539b
+      internalID: 605502177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulti Torero 3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 36
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.62, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb5edce0650a4940b8f2519434bf6d5
+      internalID: 371132663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash Torero 1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb765ab5ff8a62d4fa80e217349d0870
+      internalID: -1735786021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteSheetTOrero_18: 1438593898
+      Muerte Torero 4: 91783287
+      SpriteSheetTOrero_22: -1161864370
+      Iddle Torero 1: -1947322598
+      SpriteSheetTOrero_14: -508466835
+      Dash Torero 1: -1735786021
+      Muerte Torero 3: 242408079
+      SpriteSheetTOrero_47: 1233871425
+      SpriteSheetTOrero_19: -1884488086
+      SpriteSheetTOrero_10: 289967607
+      SpriteSheetTOrero_17: -1548338203
+      SpriteSheetTOrero_11: 674516493
+      SpriteSheetTOrero_15: 164277328
+      Iddle Torero 2: -1024501629
+      SpriteSheetTOrero_16: -11552544
+      Golpe Torero 4: -34246959
+      Muerte Torero 5: 1346451669
+      Ulti Torero 3: 371132663
+      SpriteSheetTOrero_9: 685646635
+      Iddle Torero 3: -1904119048
+      Stun Torero 2: 181171419
+      Ulti Torero 1: 1678357628
+      WalkTorero 2: -531863575
+      SaltarTorero 3: 513769866
+      SaltarTorero 5: -433956698
+      Golpe Especial Torero 3: 719301817
+      Golpe Torero 2: 1789735809
+      Ulti Torero 2: 605502177
+      WalkTorero 5: -1928535576
+      Stun Torero 3: -1087655267
+      Golpe Torero 1: 292722271
+      SaltarTorero 1: -387961072
+      Stun Torero 4: -1924317637
+      Muerte Torero 2: 514834984
+      SaltarTorero 2: 1114804679
+      WalkTorero 6: 1785821771
+      SpriteSheetTOrero_45: 564243320
+      Golpe Especial Torero 2: -1678233586
+      Stun Torero 5: -1817912858
+      Golpe Torero 3: -488762732
+      Golpe Torero 5: -995850982
+      WalkTorero 4: 1556396901
+      SaltarTorero 4: 2136276372
+      WalkTorero 3: -801855276
+      SaltarTorero 7: 1705212176
+      Stun Torero 6: -505667857
+      WalkTorero 1: -476178362
+      WalkTorero 7: -1119806561
+      SpriteSheetTOrero_51: -1647891037
+      Golpe Especial Torero 4: 1624784798
+      SpriteSheetTOrero_12: 1983056351
+      Stun Torero 1: 699015196
+      SaltarTorero 6: 1910244289
+      Golpe Especial Torero 1: -70112041
+      SpriteSheetTOrero_49: 2112827022
+      Golpe Especial Torero 5: -1570001502
+      SpriteSheetTOrero_23: 716281607
+      SpriteSheetTOrero_21: 1459636419
+      Muerte Torero 1: -1827233038
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

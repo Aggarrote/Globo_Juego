@@ -1,0 +1,1071 @@
+fileFormatVersion: 2
+guid: 510cd378ba580f14799515b49dfa80e6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 180
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4568e529b6acc2d4da514917c8df9ef1
+      internalID: 14763642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 180
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc5040018629ee4b9dad0d082cb127d
+      internalID: 546107118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 180
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c0474df81717a4599785ba4b5cd829
+      internalID: -1367168091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 180
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9404e7f1aa38b364e80c609b2661b88f
+      internalID: -1545438565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 180
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629dcd25e98a3074eb3ba0e89dfc374a
+      internalID: -535409809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 180
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac443db8b03cee240acc196a9925cf3c
+      internalID: -309140344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 180
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8693949dd071147a65a8ef1e4bcabb
+      internalID: 1577383780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 180
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329e254b194683e4dbf3c4030961e0d7
+      internalID: -480993257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 180
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35c83f10ad1ada41a39a362dfbf05bd
+      internalID: -1710810569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 178
+        width: 29
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b980f8c2fa2344581306e54a419b15
+      internalID: -721078747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 178
+        width: 29
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d486e4c9fb90beb46be7627bab512bec
+      internalID: 1224653298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 178
+        width: 29
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355f4196b0f650d42bb43d41b68323eb
+      internalID: 907534925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9158140d887f746aa8911eefc9a5a1
+      internalID: 558641446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 143
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede638bbce25a864b90d9baa87dc144d
+      internalID: -1467420131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 143
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643f7b560aaf34348afad1b5ed7574f0
+      internalID: 356575032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 143
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1229e628f52ce0444adbdfa0d823c80a
+      internalID: 63332891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 143
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8854d8db042085e48a2b61359bac3705
+      internalID: -1738743271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 143
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaea1bdecc5b5574bb44d2e0fa779a9a
+      internalID: 594883834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 143
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7fdf0fdbf56db4eac8674978226698
+      internalID: -1769497664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 132
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be84c41e5d60c5c45b3a9dedd0c7c1cd
+      internalID: -1731054186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_29
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 132
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfda06a20ac69da45abae813d04d6de6
+      internalID: -943520376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_30
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 132
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3a7c191853d71479d6e2d62f9f5993
+      internalID: 239215994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_31
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 132
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.41, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cafb6308bb798548a4537fc96829cac
+      internalID: 624399062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_32
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 132
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ea3b281513e27489066ad3fce89ead
+      internalID: -1528520055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 24
+        height: 29
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352e1b671a19bc349be7b33587e0fb56
+      internalID: 766061443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 100
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f0c186ad5cd7a418e7549e00895c42
+      internalID: -1523227309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 100
+        width: 24
+        height: 29
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c1c6623b4471c43b6343451c5bad66
+      internalID: -1765919284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_36
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 83
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bda5e81f72bf7b4aa8df8b4bbb5aab4
+      internalID: -1455038454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_37
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 83
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6b6b03d3fffd7498274a73b43038b1
+      internalID: 26881824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 83
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2187b1b04ef12b04780807ddc480f67a
+      internalID: 419717297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_39
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 83
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc440fde83f0f154cae2f3ca5b5d2dea
+      internalID: -1177627704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_40
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 83
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277a92438a59be34ebcfb5f9053d6337
+      internalID: -1957173980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_43
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 48
+        width: 24
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579f25ac74aa1fe40a60df923f8df9f7
+      internalID: 382089077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_45
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 48
+        width: 24
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f054d474c68601340b177b0de6975dac
+      internalID: 1361546457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a087d6036b45df44a3ab5c089b97104
+      internalID: -400864780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 24
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cf2609b438bca45a00fbc275886fe9
+      internalID: 447929677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_49
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 48
+        width: 24
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc57a826f5b0c684baf637a6a32e1adf
+      internalID: -851298555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 48
+        width: 24
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837851bfd4c72c346b3d8712b982e682
+      internalID: -1885503136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 36
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d2bbd6381f65c4c996d331fe7f7220
+      internalID: -500112758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_52
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 36
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aa305f9c089774893aa50e2a249aa9
+      internalID: 103954373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_53
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 36
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071dcfe7538a58b48853d85f1b16a917
+      internalID: -1547177724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetMexicano-export_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e6d432d83167043a930754062ecae4
+      internalID: -1749364075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteSheetMexicano-export_13: -726956793
+      SpriteSheetMexicano-export_27: -1769497664
+      SpriteSheetMexicano-export_18: 1224653298
+      SpriteSheetMexicano-export_49: -851298555
+      SpriteSheetMexicano-export_30: 239215994
+      SpriteSheetMexicano-export_28: -1731054186
+      SpriteSheetMexicano-export_22: -1467420131
+      SpriteSheetMexicano-export_10: -561641805
+      SpriteSheetMexicano-export_12: -543958261
+      SpriteSheetMexicano-export_45: 1361546457
+      SpriteSheetMexicano-export_20: 907534925
+      SpriteSheetMexicano-export_42: -751994484
+      SpriteSheetMexicano-export_52: 103954373
+      SpriteSheetMexicano-export_19: -1681193422
+      SpriteSheetMexicano-export_51: -500112758
+      SpriteSheetMexicano-export_21: 558641446
+      SpriteSheetMexicano-export_8: -1710810569
+      SpriteSheetMexicano-export_0: 14763642
+      SpriteSheetMexicano-export_14: -843717709
+      SpriteSheetMexicano-export_3: -1545438565
+      SpriteSheetMexicano-export_5: -309140344
+      SpriteSheetMexicano-export_41: 1049055904
+      SpriteSheetMexicano-export_24: 63332891
+      SpriteSheetMexicano-export_43: 382089077
+      SpriteSheetMexicano-export_54: -1749364075
+      SpriteSheetMexicano-export_33: 766061443
+      SpriteSheetMexicano-export_44: -313417800
+      SpriteSheetMexicano-export_46: -901399572
+      SpriteSheetMexicano-export_48: 447929677
+      SpriteSheetMexicano-export_31: 624399062
+      SpriteSheetMexicano-export_11: 1447246780
+      SpriteSheetMexicano-export_26: 594883834
+      SpriteSheetMexicano-export_40: -1957173980
+      SpriteSheetMexicano-export_25: -1738743271
+      SpriteSheetMexicano-export_35: -1765919284
+      SpriteSheetMexicano-export_47: -400864780
+      SpriteSheetMexicano-export_39: -1177627704
+      SpriteSheetMexicano-export_29: -943520376
+      SpriteSheetMexicano-export_23: 356575032
+      SpriteSheetMexicano-export_34: -1523227309
+      SpriteSheetMexicano-export_53: -1547177724
+      SpriteSheetMexicano-export_36: -1455038454
+      SpriteSheetMexicano-export_6: 1577383780
+      SpriteSheetMexicano-export_32: -1528520055
+      SpriteSheetMexicano-export_50: -1885503136
+      SpriteSheetMexicano-export_37: 26881824
+      SpriteSheetMexicano-export_16: 1940326745
+      SpriteSheetMexicano-export_38: 419717297
+      SpriteSheetMexicano-export_4: -535409809
+      SpriteSheetMexicano-export_9: 334565735
+      SpriteSheetMexicano-export_1: 546107118
+      SpriteSheetMexicano-export_17: -1480160684
+      SpriteSheetMexicano-export_15: -721078747
+      SpriteSheetMexicano-export_7: -480993257
+      SpriteSheetMexicano-export_2: -1367168091
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
